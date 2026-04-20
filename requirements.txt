@@ -1,0 +1,22 @@
+# Telegram Bot
+aiogram==3.4.1
+python-dotenv==1.0.0
+aiohttp-socks==0.8.4
+
+# База данных
+sqlalchemy==2.0.25
+aiosqlite==0.19.0
+
+# API для музыки
+aiohttp==3.9.3
+beautifulsoup4==4.12.3
+spotipy==2.23.0
+yandex-music==2.1.1
+
+# Скачивание музыки
+yt-dlp>=2024.3.10
+certifi>=2024.2.2
+
+# Утилиты
+python-magic==0.4.27
+mutagen==1.47.0

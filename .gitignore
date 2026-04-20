@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Виртуальное окружение
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Переменные окружения
+.env
+.env.local
+
+# База данных
+*.db
+*.sqlite
+*.sqlite3
+music_bot.db
+
+# Скачанные файлы
+downloads/
+music/
+
+# Кэш
+.cache
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Тестовые файлы
+test_*.py
